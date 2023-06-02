@@ -1,6 +1,8 @@
 name: AlwaysDay
 main: SmallkingDev\AlwaysDay\Main
+src-namespace-prefix: SmallkingDev\AlwaysDay
+version: 1.1.0
+api: [4.0.0, 5.0.0]
 author: SmallkingDev
-version: 1.0.0
-api: 4.0.0
-description: always leave it in the day
+description: Always leave it in the day time!
+website: https://github.com/smallkingdev-pm-pl/AlwaysDay
